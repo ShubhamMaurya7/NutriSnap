@@ -8,7 +8,7 @@ NutriSnap is a Next.js application that analyzes food images (packages or items)
 - **Styling**: Tailwind CSS
 - **AI**: `@google/generative-ai` (Gemini)
 
-**Project layout (selected)**
+**Project layout**
 - `app/` : Next.js app routes + pages
 - `app/api/analyze-food/route.ts` : Primary API route that sends images to Gemini and returns parsed JSON
 - `components/` : UI components and primitives
