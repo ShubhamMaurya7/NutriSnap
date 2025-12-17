@@ -18,3 +18,6 @@ NutriSnap is a Next.js application that analyzes food images (packages or items)
 - Upload or send an image of food/packaging and receive a JSON nutritional analysis.
 - Uses Gemini generative models to analyze image content and infer nutrition-related data.
 - Includes a simple API health GET endpoint to check if the Gemini API key is configured.
+
+**Screenshot**
+<img width="1222" height="604" alt="image" src="https://github.com/user-attachments/assets/44b60c14-16cd-443d-8fc4-4d988ffec9c5" />
