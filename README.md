@@ -21,3 +21,6 @@ NutriSnap is a Next.js application that analyzes food images (packages or items)
 
 **Screenshot**
 <img width="1222" height="604" alt="image" src="https://github.com/user-attachments/assets/44b60c14-16cd-443d-8fc4-4d988ffec9c5" />
+
+<img width="559" height="911" alt="image" src="https://github.com/user-attachments/assets/38f7cc5c-aa92-42ee-9e50-43c578e3f1f4" />
+
